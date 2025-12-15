@@ -1,4 +1,4 @@
-🚀 Coders of Bangalore — Instagram Community Data Analysis
+# 🚀 Coders of Bangalore — Instagram Community Data Analysis
 📖 The Story
 
 Sam Altman visits Bangalore.
